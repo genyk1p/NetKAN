@@ -5,6 +5,8 @@ author: Geny
 $kref: '#/ckan/github/genyk1p/CrewManifestFix'
 $vref: '#/ckan/ksp-avc'
 license: MIT
+resources:
+  homepage: https://forum.kerbalspaceprogram.com/topic/231954-*
 tags:
   - plugin
   - convenience
