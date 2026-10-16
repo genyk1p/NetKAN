@@ -5,6 +5,8 @@ author: Geny
 $kref: '#/ckan/github/genyk1p/MechJebTweaks'
 $vref: '#/ckan/ksp-avc'
 license: GPL-3.0
+resources:
+  homepage: https://forum.kerbalspaceprogram.com/topic/231955-*
 tags:
   - plugin
   - control
